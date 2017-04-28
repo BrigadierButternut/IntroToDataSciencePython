@@ -36,7 +36,7 @@ University Park, Los Angeles (University of Southern California)
 Merced (University of California, Merced)
 Orange (Chapman University)
 Palo Alto (Stanford University)
-Pomona (Cal Poly Pomona, WesternU)[9][10][11] and formerly Pomona College
+Pomona (Cal Poly Pomona, WesternU[9][10][11] and formerly Pomona College)
 Redlands (University of Redlands)
 Riverside (University of California, Riverside, California Baptist University, La Sierra University)
 Sacramento (California State University, Sacramento)
@@ -198,12 +198,10 @@ Boston (Boston University, Boston College, Boston Conservatory, New England Cons
 Bridgewater (Bridgewater State College)[2]
 Cambridge (Harvard University, Massachusetts Institute of Technology)(Lesley University, Cambridge College, Longy School of Music)[15]
 Chestnut Hill (Boston College)
-The Colleges of Worcester Consortium:
 Dudley (Nichols College)
 North Grafton (Cummings School of Veterinary Medicine at Tufts University)
 Paxton (Anna Maria College)
 Worcester (Assumption, Becker, Clark University, Holy Cross, Mass. College of Pharmacy & Health Sciences, Quinsigamond Community College, UMass Medical School, Worcester State University, Worcester Polytechnic Institute)
-The Five College Region of Western Massachusetts:
 Amherst (Amherst College, Hampshire College, University of Massachusetts Amherst)[15]
 Northampton (Smith College)
 South Hadley (Mount Holyoke College)
@@ -237,14 +235,14 @@ Ypsilanti (Eastern Michigan University)[2]
 Minnesota[edit]
 Bemidji (Bemidji State University)[2]
 Crookston (University of Minnesota Crookston)[2]
-Duluth (University of Minnesota Duluth, Lake Superior College, The College of St. Scholastica, University of Wisconsin–Superior, Duluth Business University
-Faribault, South Central College
-Mankato (Minnesota State University, Mankato),[2] Bethany Lutheran College
+Duluth (University of Minnesota Duluth, Lake Superior College, The College of St. Scholastica, University of Wisconsin–Superior, Duluth Business University)
+Faribault (South Central College)
+Mankato (Minnesota State University, Bethany Lutheran College)
 Marshall (Southwest Minnesota State University)[2]
 Moorhead (Minnesota State University, Moorhead, Concordia College)[18]
 Morris (University of Minnesota Morris)[2]
 Northfield (Carleton College, St. Olaf College)[5]
-North Mankato, South Central College
+North Mankato (South Central College)
 St. Cloud (St. Cloud State University, The College of St. Scholastica)[2]
 St. Joseph (College of Saint Benedict)[2]
 St. Peter (Gustavus Adolphus College)[2]
@@ -451,7 +449,7 @@ Wilkes-Barre (King's College, Wilkes University)
 Williamsport (Lycoming College, Pennsylvania College of Technology)[2]
 Rhode Island[edit]
 Kingston (University of Rhode Island)[2]
-Providence (Brown University, (University of Rhode Island), Rhode Island School of Design, Johnson and Wales University, Providence College, Community College of Rhode Island, Rhode Island College, and Roger Williams University.)
+Providence (Brown University, (University of Rhode Island, Rhode Island School of Design, Johnson and Wales University, Providence College, Community College of Rhode Island, Rhode Island College, and Roger Williams University.)
 South Carolina[edit]
 Central (Southern Wesleyan University)[2]
 Charleston (College of Charleston, The Citadel, MUSC)
